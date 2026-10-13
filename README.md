@@ -52,9 +52,10 @@ An interactive Power BI project designed to analyze enterprise business performa
 ![Cloud and AI Analytics](dashboard-screenshots/08-cloud-training-ai-analytics.png)
 
 ## Project Files
-- Power BI report: Google Drive link to be added
-- Excel dataset: Google Drive link to be added
-- Dashboard screenshots: Available in this repository
+- **Power BI Dashboard (.pbix):** [Open / Download Power BI Report](https://drive.google.com/file/d/1XB60kBRVXyWeIfcdd7FXGghSlB_qsaP-/view?usp=sharing)
+- **Excel Dataset:** [View Excel Dataset](https://docs.google.com/spreadsheets/d/1it4NFEHPVucIUhICNf3i_eGi7nq5IWCW/edit?usp=sharing)
+
+- **Dashboard Screenshots:** Available in the `Dashboard Screenshots` folder in this repository.
 
 ## Disclaimer
 This project is presented for portfolio and learning purposes. Dataset details and business findings should be interpreted according to the source data and its context.
