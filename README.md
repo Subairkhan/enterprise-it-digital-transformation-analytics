@@ -25,6 +25,32 @@ An interactive Power BI project designed to analyze enterprise business performa
 - Operational and financial performance analysis
 - Visual insights to support business decision-making
 
+## Dashboard Preview
+
+### 1. Executive Dashboard
+![Executive Dashboard](dashboard-screenshots/01-executive-dashboard.png)
+
+### 2. Workforce Analytics
+![Workforce Analytics](dashboard-screenshots/02-workforce-analytics.png)
+
+### 3. Clients & Customer Analytics
+![Client Analytics](dashboard-screenshots/03-client-customer-analytics.png)
+
+### 4. Project Analytics
+![Project Analytics](dashboard-screenshots/04-project-analytics.png)
+
+### 5. Sales & Revenue Analytics
+![Sales Analytics](dashboard-screenshots/05-sales-revenue-analytics.png)
+
+### 6. Finance & Billing Analytics
+![Finance Analytics](dashboard-screenshots/06-finance-billing-analytics.png)
+
+### 7. IT Operations & SLA Analytics
+![IT Operations Analytics](dashboard-screenshots/07-it-operations-sla-analytics.png)
+
+### 8. Cloud, Training & AI Analytics
+![Cloud and AI Analytics](dashboard-screenshots/08-cloud-training-ai-analytics.png)
+
 ## Project Files
 - Power BI report: Google Drive link to be added
 - Excel dataset: Google Drive link to be added
